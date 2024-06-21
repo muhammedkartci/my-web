@@ -1,0 +1,10 @@
+body {
+    color: blue;
+}
+
+.header {
+    width: 100%;
+    padding: 18px;
+    height: 40px;
+    color: blue;
+}
